@@ -11,7 +11,7 @@ methods on six RGB-D datasets.
 
 
 ## Proposed Baseline
-### Download pths
+### Pretrained Pth
 Download the following `pth` and put it into main folder
 - [Swin-B](https://pan.baidu.com/s/1VkWOrdrw3RHOp0Ir5rLGgw) with the fetch code:ja95.
 
