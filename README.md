@@ -9,4 +9,4 @@ methods on six RGB-D datasets.
 ![fig2.jpg](figs/fig2.jpg)
 ![fig3.jpg](figs/fig3.jpg)
 
-The code will be available after the paper is accepted.
+
