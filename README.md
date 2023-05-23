@@ -11,6 +11,13 @@ methods on six RGB-D datasets.
 
 
 ## Proposed Baseline
+
+### Prerequisites
+- Python 3.6
+- Pytorch 1.10.2
+- Torchvision 0.11.3
+- Numpy 1.19.2
+
 ### Pretrained Pth
 Download the following `pth` and put it into main folder
 - [Swin-B](https://pan.baidu.com/s/1VkWOrdrw3RHOp0Ir5rLGgw) with the fetch code:ja95.
