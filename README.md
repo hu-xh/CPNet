@@ -16,4 +16,5 @@ Download the following `pth` and put it into main folder
 - [Swin-B](https://pan.baidu.com/s/1VkWOrdrw3RHOp0Ir5rLGgw) with the fetch code:ja95.
 
 ### Results
+You can download the tested results map at - [Baidu Pan link] (https://pan.baidu.com/s/1PlmqAvlAwSzsH2YGR4VzKQ) with the fetch code:dq2w.
 You can download the results pth - [Baidu Pan link] (https://pan.baidu.com/s/1x6wQf-RceapsZanH4PfbGg) with the fetch code:50lu.
