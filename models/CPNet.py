@@ -97,8 +97,8 @@ class CPNet(nn.Module):
         r2_up = F.interpolate(self.dwc2(r2), size=48, mode='bilinear')
         r1_up = F.interpolate(self.dwc1(r1), size=24, mode='bilinear')
         d3_up = F.interpolate(self.dwc3(d3), size=96, mode='bilinear')
-        d2_up = F.interpolate(self.dwc2(d2), size=48, mode='bilinear')
-        d1_up = F.interpolate(self.dwc1(d1), size=24, mode='bilinear')
+        d2_up = F.interpolate(self.dwc2(r2), size=48, mode='bilinear')
+        d1_up = F.interpolate(self.dwc1(r1), size=24, mode='bilinear')
 
         r1_con = torch.cat((r1, r1), 1)
         r1_con = self.dwcon_1(r1_con)
