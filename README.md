@@ -31,5 +31,28 @@ Download the following `pth` and put it into main folder
 ### Results
 You can download the tested results map at - [Baidu Pan link] (https://pan.baidu.com/s/1PlmqAvlAwSzsH2YGR4VzKQ) with the fetch code:dq2w.
 
+- [x] We fixed the codes and uploaded a new trained parameter pth. (https://pan.baidu.com/s/1Kfkvv80irU7kV6ojrcvujg?pwd=1234)  with the fetch code:1234
+
 ### Contact
 Feel free to send e-mails to me (1558239392@qq.com).
+
+## Relevant Literature
+
+```text
+@article{DBLP:journals/ijcv/HuSSWL24,
+  author       = {Xihang Hu and
+                  Fuming Sun and
+                  Jing Sun and
+                  Fasheng Wang and
+                  Haojie Li},
+  title        = {Cross-Modal Fusion and Progressive Decoding Network for {RGB-D} Salient
+                  Object Detection},
+  journal      = {Int. J. Comput. Vis.},
+  volume       = {132},
+  number       = {8},
+  pages        = {3067--3085},
+  year         = {2024},
+  url          = {https://doi.org/10.1007/s11263-024-02020-y},
+  doi          = {10.1007/S11263-024-02020-Y},
+}
+```
